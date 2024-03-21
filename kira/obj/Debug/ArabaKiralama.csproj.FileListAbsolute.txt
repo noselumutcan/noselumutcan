@@ -1,0 +1,10 @@
+C:\Users\nosel\source\repos\ArabaKiralama\ArabaKiralama\bin\Debug\ArabaKiralama.exe.config
+C:\Users\nosel\source\repos\ArabaKiralama\ArabaKiralama\bin\Debug\ArabaKiralama.exe
+C:\Users\nosel\source\repos\ArabaKiralama\ArabaKiralama\bin\Debug\ArabaKiralama.pdb
+C:\Users\nosel\source\repos\ArabaKiralama\ArabaKiralama\obj\Debug\ArabaKiralama.csproj.AssemblyReference.cache
+C:\Users\nosel\source\repos\ArabaKiralama\ArabaKiralama\obj\Debug\ArabaKiralama.Properties.Resources.resources
+C:\Users\nosel\source\repos\ArabaKiralama\ArabaKiralama\obj\Debug\ArabaKiralama.csproj.GenerateResource.cache
+C:\Users\nosel\source\repos\ArabaKiralama\ArabaKiralama\obj\Debug\ArabaKiralama.csproj.CoreCompileInputs.cache
+C:\Users\nosel\source\repos\ArabaKiralama\ArabaKiralama\obj\Debug\ArabaKiralama.exe
+C:\Users\nosel\source\repos\ArabaKiralama\ArabaKiralama\obj\Debug\ArabaKiralama.pdb
+C:\Users\nosel\source\repos\ArabaKiralama\ArabaKiralama\obj\Debug\ArabaKiralama.Form1.resources
